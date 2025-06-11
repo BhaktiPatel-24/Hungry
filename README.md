@@ -37,5 +37,8 @@ To use the API, you must provide:
 
 ### Example API Call:
 
-[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://www.linkedin.com/posts/bhakti-patel-330139308_hungry-just-search-eat-repeat-excited-activity-7338460303900176384-kEhN?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAE5UfZQB3AdKvAdVC-7Bsw6CuUIAjeBg91A&utm_campaign=copy_link))
+## 🎥 Demo Video
+
+Watch the app in action on LinkedIn:  
+🔗 [Click here to view the video demo](https://www.linkedin.com/posts/bhakti-patel-330139308_hungry-just-search-eat-repeat-excited-activity-7338460303900176384-kEhN)
 
